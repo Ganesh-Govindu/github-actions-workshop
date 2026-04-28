@@ -201,5 +201,3 @@ To get started, navigate to the workshop [labs](./labs.md) page where you'll fin
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-removing them back.
