@@ -202,4 +202,4 @@ To get started, navigate to the workshop [labs](./labs.md) page where you'll fin
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Adding a comment at end to check if it's working.
+removing them back.
